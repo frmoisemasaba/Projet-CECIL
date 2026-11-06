@@ -25,6 +25,10 @@ php cecil.phar build
 
 Cecil génère le site publiable dans `_site/`. Les fichiers sources du projet et le site généré sont séparés.
 
+## Publier sur GitHub Pages
+
+Le workflow `.github/workflows/pages.yml` compile le site avec Cecil puis déploie automatiquement `_site/` sur GitHub Pages à chaque push sur `main`. Dans les paramètres du dépôt, sélectionnez **Settings → Pages → Source → GitHub Actions**.
+
 ## Fonctionnalités
 
 - Boutique responsive et navigation en français
