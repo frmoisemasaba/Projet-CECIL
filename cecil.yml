@@ -3,5 +3,9 @@ baseline: La maison, autrement
 baseurl: https://frmoisemasaba.github.io/Projet-CECIL/
 description: Des pièces durables et sensibles pour faire de chez soi un endroit à part.
 language: fr
+languages:
+  - code: fr
+    name: Français
+    locale: fr_FR
 metatags:
   favicon: false
