@@ -21,9 +21,10 @@ Le site sera disponible sur [http://localhost:8000](http://localhost:8000).
 
 ```powershell
 php cecil.phar build
+php scripts/export-index.php
 ```
 
-Cecil génère le site publiable dans `_site/`. Les fichiers sources du projet et le site généré sont séparés.
+Cecil génère le site publiable dans `_site/`. La seconde commande met à jour `index.html` à la racine du dépôt à partir de cette génération. Le dépôt et GitHub Pages présentent ainsi la vraie boutique, avec les fichiers communs `assets/styles.css` et `assets/app.js`.
 
 ## Publier sur GitHub Pages
 

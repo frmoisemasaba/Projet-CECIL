@@ -33,6 +33,11 @@ jobs:
       - name: Build website
         run: php cecil.phar build --no-ansi
 
+      - name: Check repository index
+        run: |
+          php scripts/export-index.php
+          git diff --exit-code -- index.html
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
