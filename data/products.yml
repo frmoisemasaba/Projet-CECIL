@@ -1,0 +1,57 @@
+products:
+  - id: 1
+    name: "Vase Sélène"
+    category: Décoration
+    price: 48
+    tag: Fait main
+    image: "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=900&q=80"
+    alt: Vase en céramique artisanale aux courbes organiques
+  - id: 2
+    name: Assiette Alba
+    category: Art de la table
+    price: 32
+    tag: Coup de cœur
+    image: "https://images.unsplash.com/photo-1610701596007-11502861dcfa?auto=format&fit=crop&w=900&q=80"
+    alt: Assiette en céramique façonnée à la main
+  - id: 3
+    name: Lampe Noma
+    category: Luminaires
+    price: 129
+    tag: Édition limitée
+    image: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80"
+    alt: Lampe d’appoint au design intemporel
+  - id: 4
+    name: Plaid Orée
+    category: Textiles
+    price: 89
+    tag: Lin & coton
+    image: "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=80"
+    alt: Plaid naturel posé sur un canapé dans un intérieur doux
+  - id: 5
+    name: Bougeoir Miro
+    category: Décoration
+    price: 36
+    tag: Fait main
+    image: "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=80"
+    alt: Bougie et objet décoratif dans une ambiance chaleureuse
+  - id: 6
+    name: Bol Alba
+    category: Art de la table
+    price: 26
+    tag: Terre brute
+    image: "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?auto=format&fit=crop&w=900&q=80"
+    alt: Bol en céramique aux nuances naturelles
+  - id: 7
+    name: Coussin Aube
+    category: Textiles
+    price: 54
+    tag: Lin lavé
+    image: "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=900&q=80"
+    alt: Coussin en textile naturel dans un salon lumineux
+  - id: 8
+    name: Lampe Alba
+    category: Luminaires
+    price: 98
+    tag: Lumière douce
+    image: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80"
+    alt: Lampe décorative aux lignes épurées
